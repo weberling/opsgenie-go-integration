@@ -19,9 +19,11 @@ export OPSGENIE_API_KEY={opsgenie_api_key}
 
 ## Run
 
-Go to user root folder
+Go to the project > branch
+```
 cd ~/go/src/github.com/weberling/opsgenie-go-integration
 git checkout easy-runnable
+```
 
 ### List alerts
 
