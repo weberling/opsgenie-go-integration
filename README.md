@@ -4,7 +4,7 @@
 
 Go
 
-````
+```
 brew install go
 ```
 
