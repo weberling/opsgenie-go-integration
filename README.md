@@ -2,12 +2,26 @@
 
 ## Requirements
 
-Generate an [OpsGenie Integration](https://app.opsgenie.com/integration#/) to use as environment variable
+Go
+
+````
+brew install go
+```
+
+```
+go get github.com/weberling/opsgenie-go-integration
+```
+
+Get the key on MBACk_Toolkit
 ```
 export OPSGENIE_API_KEY={opsgenie_api_key}
 ``` 
 
 ## Run
+
+Go to user root folder
+cd ~/go/src/github.com/weberling/opsgenie-go-integration
+git checkout easy-runnable
 
 ### List alerts
 
